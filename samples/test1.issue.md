@@ -1,15 +1,15 @@
 ---
-title: Test issue
-assign: 
-  - lakruzz
-labels: 
-  - name: "good first issue" 
-  - name: "second mice" 
-    color: '#aa00bb' 
-    desc: '...gets the worm'
-milestone: 'next-up'
-projects:
-  - 'lakruzz dev projects'
+title: Test issue #SAMPLE COMMENT
+assign: #SAMPLE COMMENT
+  - lakruzz #SAMPLE COMMENT
+labels: #SAMPLE COMMENT
+  - name: "good first issue" #SAMPLE COMMENT
+  - name: "second mice" #SAMPLE COMMENT
+    color: '#aa00bb' #SAMPLE COMMENT
+    desc: '...gets the worm' #SAMPLE COMMENT
+milestone: 'next-up' #SAMPLE COMMENT
+projects: #SAMPLE COMMENT
+  - 'lakruzz dev projects' #SAMPLE COMMENT
 ---
 
 ## This is a sample issue instance template
