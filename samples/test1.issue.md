@@ -1,14 +1,14 @@
 ---
-title: Test issue # *required* (text)
+title: Test issue
 assign: 
   - 'lakruzz'
-labels: # _optional_ (list of tuples) Add labels by name
-  - name: "good first issue" # *required* (text) Label name
-  - name: "second mice" # *required* (text) Label name
-    color: '#aa00bb' # _optinoal_ (text) Color of the label
-    desc: '...gets the worm' # _optional_ (text) Description of the label
-milestone: # _optional_ (text) Add the issue to a milestone by name
-projects: # _optional_ (list of text) Add the issue to projects by title
+labels: 
+  - name: "good first issue" 
+  - name: "second mice" 
+    color: '#aa00bb' 
+    desc: '...gets the worm'
+milestone: 
+projects:
 ---
 
 ## This is a sample issue instance template
