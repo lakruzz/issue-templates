@@ -1,7 +1,7 @@
 ---
 title: Test issue
 assign: 
-  - @lakruzz
+  - lakruzz
 labels: 
   - name: "good first issue" 
   - name: "second mice" 
