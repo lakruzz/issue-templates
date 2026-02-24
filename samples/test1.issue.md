@@ -8,7 +8,8 @@ labels:
     color: '#aa00bb' 
     desc: '...gets the worm'
 milestone: 'next-up'
-projects: 'lakruzz dev projects'
+projects:
+  - 'lakruzz dev projects'
 ---
 
 ## This is a sample issue instance template
