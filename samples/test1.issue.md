@@ -1,6 +1,6 @@
 ---
 title: Test issue # *required* (text)
-assign:  # _optional_ (list of text) Assign people by their login. Use "@me" to self-assign.
+assign: 
   - 'lakruzz'
 labels: # _optional_ (list of tuples) Add labels by name
   - name: "good first issue" # *required* (text) Label name
