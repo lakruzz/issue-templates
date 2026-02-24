@@ -7,8 +7,8 @@ labels:
   - name: "second mice" 
     color: '#aa00bb' 
     desc: '...gets the worm'
-milestone: 
-projects:
+milestone: 'next-up'
+projects: 'lakruzz dev projects'
 ---
 
 ## This is a sample issue instance template
